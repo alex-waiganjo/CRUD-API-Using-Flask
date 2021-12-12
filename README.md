@@ -2,6 +2,7 @@
 
 
 RESOURCES REQUIRED
-Postman
-python modules such as marshamllow,sqlalchemy,request,jsonify
+Postman, 
+python modules such as marshamallow,sqlalchemy,request,jsonify
 flask framework
+Sqlite database
