@@ -20,7 +20,7 @@ ma = Marshmallow(app)
 
 #Database Instance
 class User_details(db.Model):
-    __tablename__ = "users"
+  
     id = db.Column(db.Integer, primary_key=True)
     username =db.Column(db.Text,nullable= False)
     age = db.Column(db.Integer,nullable=False)
