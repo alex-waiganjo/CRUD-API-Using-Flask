@@ -5,4 +5,4 @@
 + Sqlalchemy ORM
 + SQLITE (Used in this Project).
   ####    ***Nb*** Choose your preffered Database
-+ Postman ( Used it for testing the Post,Update,Delete and Get Routes.  
++ Postman ( Used it for testing the Post,Update,Delete and Get Routes ).  
